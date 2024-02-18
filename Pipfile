@@ -10,6 +10,7 @@ ccxt = "==1.57.43"
 pandas = "*"
 six = "*"
 joblib = "*"
+tqdm = "*"
 
 [requires]
 python_version = "3.6"
